@@ -6,5 +6,6 @@ https://github.com/kauanesilvadg7-svg/Fonte-de-Dados/blob/main/Apresentac%CC%A7a
 
 ## Planilha-VTI 
 Dados do Valor da Transformação Industrial e perguntas respondidas através dos números
-"C:\Users\Fatec\Pictures\Screenshots\Captura de tela 2025-11-07 223255.png"
+<img width="1913" height="1033" alt="Captura de tela 2025-11-07 223255" src="https://github.com/user-attachments/assets/092a433b-952d-45a1-add4-7c3ac75a1db4" />
+
 
