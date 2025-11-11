@@ -8,5 +8,16 @@ https://github.com/kauanesilvadg7-svg/Fonte-de-Dados/blob/main/Apresentac%CC%A7a
 ## Planilha-VTI 
 Dados do Valor da Transformação Industrial e perguntas respondidas através dos números
 <img width="1913" height="1033" alt="Captura de tela 2025-11-07 223255" src="https://github.com/user-attachments/assets/092a433b-952d-45a1-add4-7c3ac75a1db4" />
+1. =SOMASES(Tabela1[[#Tudo];[VTI-(MilReais)]];Tabela1[[#Tudo];[municipio]];"São Paulo";Tabela1[[#Tudo];[Ano]];2022)
+2. =MÉDIASES(Tabela1[[#Tudo];[Remuneracao_trabalhadores_da_producao_(MilReais)]];Tabela1[[#Tudo];[municipio]];"Campinas";Tabela1[[#Tudo];[Ano]];2022)
+3. =MÉDIASES(Tabela1[[#Tudo];[Trabalhadores_da_producao]];Tabela1[[#Tudo];[municipio]];"São José dos Campos";Tabela1[[#Tudo];[Ano]];2022)
+4. =SOMASES(Tabela1[VTI(MilR$2022)];Tabela1[municipio];"São José dos Campos";Tabela1[Ano];2005)
+5. =MÉDIASES(Tabela1[[#Tudo];[Trabalhadores_da_producao]];Tabela1[[#Tudo];[municipio]];"São José dos Campos";Tabela1[[#Tudo];[Ano]];2004)
+
+
+
+
+
+
 
 
