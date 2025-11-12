@@ -16,16 +16,30 @@ Dados do Valor da Transformação Industrial e perguntas respondidas através do
 
 ## Atividade 3:
 Introdução a extração de dados do Comex stat e confecção de dados no Power BI. Matéria da aula de Fonte de informação e banco de dados.
-<img width="505" height="426" alt="image" src="https://github.com/user-attachments/assets/20f4ff7e-35a9-4948-abe2-1711bb833dca" />
+<img width="763" height="626" alt="508494288-5793a3c3-885f-42ae-94c2-6049263b05d3" src="https://github.com/user-attachments/assets/bcb31f06-b16c-4dc2-b235-20e44f155c75" />
+
 
 ## Atividade 4:
 Introdução a extração de dados do Comex stat e confecção de dados no Power BI.
-<img width="552" height="207" alt="image" src="https://github.com/user-attachments/assets/0bd04603-a890-43d2-ab72-6df5847e67ce" />
+<img width="823" height="312" alt="508495663-659e961d-3ed7-489c-9325-6b73d29f0571" src="https://github.com/user-attachments/assets/c39d0c75-75ba-48c1-832f-c8898590c2bb" />
+
 
 ## Atividade 5: 
 sobre tratamento de dados do gráfico Ice Cream
 <img width="1895" height="760" alt="508499410-0d0eb6f4-81c2-46fb-b674-fd9645f697b5" src="https://github.com/user-attachments/assets/b08e4d9c-887d-423e-ab86-7856c8edd719" />
+Dados no Colab do Google
 <img width="1009" height="685" alt="508499445-d0e06350-42a1-4079-a8f2-7f86855aee51" src="https://github.com/user-attachments/assets/264ad2ac-1b0e-4fea-bcb7-9f604c10d5f3" />
+<img width="762" height="771" alt="508499491-e238490b-dc75-439e-a2e8-d96f75a70006" src="https://github.com/user-attachments/assets/bd183ccf-179e-4ed0-826d-51a0fca905cf" />
+<img width="774" height="432" alt="508499526-c577c132-317e-439a-87dd-a19bb431e853" src="https://github.com/user-attachments/assets/5aaef47a-4b5b-4876-8484-8011093627cb" />
+
+## Atividade 6:
+Elaboração de regressão linear por meio de Excel dos dados sobre salários levando em consideração os anos de serviço prestado para a empresa.
+<img width="821" height="749" alt="511597191-7aaaf6af-2992-4349-8683-f75680e3445c" src="https://github.com/user-attachments/assets/88439706-87de-4935-841d-f44acb3e92d4" />
+Elaboração do gráfico de dispersão linear, utilizando a ferramento Google Colab, com o auxílio de Inteligência artificial GEMINI para gerar o gráfico e alterar cores e formas. Regressão linear: Uma média retirada a partir de dados, utilizada para análise dentro de um período detrminado. O tempo de serviço prestado agrega valor ao salário, por motivos de promoções, dicídios (Lei CLT), etc.
+<img width="1044" height="494" alt="511599912-fbf252fc-70b9-4cc7-b2ab-3f0c384afbc8" src="https://github.com/user-attachments/assets/5a25f604-fcb6-4606-a6b7-323e93b5d9ce" />
+<img width="940" height="531" alt="511600097-5486c26e-0dcc-4f5e-ae46-55f812b9106c" src="https://github.com/user-attachments/assets/f9856f97-4bf0-4d57-9c9e-6363c0ed2139" />
+
+
 
 
 
