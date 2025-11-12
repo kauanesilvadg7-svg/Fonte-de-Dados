@@ -35,7 +35,7 @@ Dados no Colab do Google
 ## Atividade 6:
 Elaboração de regressão linear por meio de Excel dos dados sobre salários levando em consideração os anos de serviço prestado para a empresa.
 <img width="821" height="749" alt="511597191-7aaaf6af-2992-4349-8683-f75680e3445c" src="https://github.com/user-attachments/assets/88439706-87de-4935-841d-f44acb3e92d4" />
-Elaboração do gráfico de dispersão linear, utilizando a ferramento Google Colab, com o auxílio de Inteligência artificial GEMINI para gerar o gráfico e alterar cores e formas. Regressão linear: Uma média retirada a partir de dados, utilizada para análise dentro de um período detrminado. O tempo de serviço prestado agrega valor ao salário, por motivos de promoções, dicídios (Lei CLT), etc.
+Elaboração do gráfico de dispersão linear, utilizando a ferramento Google Colab, com o auxílio de Inteligência artificial GEMINI para gerar o gráfico e alterar cores e formas. Regressão linear: Uma média retirada a partir de dados, utilizada para análise dentro de um período determinado. O tempo de serviço prestado agrega valor ao salário, por motivos de promoções, dicídios (Lei CLT), etc.
 <img width="1044" height="494" alt="511599912-fbf252fc-70b9-4cc7-b2ab-3f0c384afbc8" src="https://github.com/user-attachments/assets/5a25f604-fcb6-4606-a6b7-323e93b5d9ce" />
 <img width="940" height="531" alt="511600097-5486c26e-0dcc-4f5e-ae46-55f812b9106c" src="https://github.com/user-attachments/assets/f9856f97-4bf0-4d57-9c9e-6363c0ed2139" />
 
