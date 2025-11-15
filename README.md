@@ -27,8 +27,8 @@ Introdução a extração de dados do Comex stat e confecção de dados no Power
 ## Atividade 5: 
 sobre tratamento de dados do gráfico Ice Cream
 
-Dados no Colab do Google
 <img width="1194" height="632" alt="Captura de tela 2025-11-14 132524" src="https://github.com/user-attachments/assets/131db31b-27d9-49c6-add0-096b15efafb2" />
+Dados no Colab do Google
 <img width="1009" height="685" alt="508499445-d0e06350-42a1-4079-a8f2-7f86855aee51" src="https://github.com/user-attachments/assets/264ad2ac-1b0e-4fea-bcb7-9f604c10d5f3" />
 <img width="762" height="771" alt="508499491-e238490b-dc75-439e-a2e8-d96f75a70006" src="https://github.com/user-attachments/assets/bd183ccf-179e-4ed0-826d-51a0fca905cf" />
 <img width="774" height="432" alt="508499526-c577c132-317e-439a-87dd-a19bb431e853" src="https://github.com/user-attachments/assets/5aaef47a-4b5b-4876-8484-8011093627cb" />
