@@ -41,6 +41,8 @@ Elaboração do gráfico de dispersão linear, utilizando a ferramento Google Co
 <img width="1044" height="494" alt="511599912-fbf252fc-70b9-4cc7-b2ab-3f0c384afbc8" src="https://github.com/user-attachments/assets/5a25f604-fcb6-4606-a6b7-323e93b5d9ce" />
 <img width="940" height="531" alt="511600097-5486c26e-0dcc-4f5e-ae46-55f812b9106c" src="https://github.com/user-attachments/assets/f9856f97-4bf0-4d57-9c9e-6363c0ed2139" />
 
+## Prova - Planilha
+<img width="1329" height="852" alt="Captura de tela 2025-11-28 215328" src="https://github.com/user-attachments/assets/281711b5-fc13-4dc0-8807-5b2a47096bda" />
 
 
 
